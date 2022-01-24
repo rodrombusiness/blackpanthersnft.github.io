@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x84206ddab3f493acb67fa9227882dd5d5196137004253e84fd7f0dec2bb97787",
+  "SCAN_LINK": "https://etherscan.io/tx/0x84206ddab3f493acb67fa9227882dd5d5196137004253e84fd7f0dec2bb97787",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Black Panthers NFT",
+  "SYMBOL": "PAN",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 12000000000000000000,
+  "DISPLAY_COST": 0.12,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/blackpanther-nfts",
+  "SHOW_BACKGROUND": true
+}
